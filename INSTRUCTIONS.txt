@@ -1,0 +1,6 @@
+YOU NEED PYTHON 3.6 FOR THIS
+https://www.python.org/ftp/python/3.6.0/python-3.6.0.exe
+
+1. run the run.bat
+2. enter your information (Note: true must be ALL UPPERCASE to work, false doesn't matter)
+3. get ur shit b
